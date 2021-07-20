@@ -1,6 +1,6 @@
 Payment Gateway Integration
 
-COVIDO
+COVIDATION
 
 The Sparks Foundation Internship Project: Paymnet Gateway Integration
 This project consists of a simple page to donate money to the foundation.
